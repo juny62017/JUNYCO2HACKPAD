@@ -1,17 +1,15 @@
 this is a macropad for my editing and personal use 
-i gonna use this macropad on my personal setup and i have designed by my own and watched some tutorial and guide
+i gonna use this macropad on my personal gear and
+i have made this by my own and watched some tutorial and guide
 this is my first time of making pcb and i have made this project for blueprint program
 
-<img width="1572" height="922" alt="Screenshot 2026-01-21 001112" src="https://github.com/user-attachments/assets/6444ecef-12d1-41dd-bcb8-614a3a68fcfd" />
-<img width="1175" height=<img width="1888" height="922" alt="Screenshot_2026-01-24_195101" src="https://github.com/user-attachments/assets/07d31d7c-8f0a-45ef-a131-b4ab24d13fbb" /><img width="1907" height="984" alt="Screenshot_2026-01-24_194314" <img width="1887" height="989" alt="Screenshot_2026-01-24_194258" src="https://github.com/user-attachments/assets/0599a583-ef18-4fcb-9766-ab03d473b6e6" />
-src="https://github.com/user-attachments/assets/072e3c1b-d2c6-4e55-836a-46797544148e" />
+<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/728036ad-9c65-43b1-931c-c8b7102f6507" />
+<img width="1344" height="692" alt="image" src="https://github.com/user-attachments/assets/d0513c56-dc9f-4899-b343-aa5b10a4cfe3" />
 
-"926" alt="Screenshot 2026-01-21 001126" src="https://github.com/user-attachments/assets/01ea474d-5e43-438f-a1ab-a79219d21f46" /><img width="1915" height="891" alt="Screenshot_2026-01-24_195122" src="https://github.com/user-attachments/assets/88fd569d-345e-4089-aae3-0e3bf472c799" />
-
-<img width="1487" height="905" alt="Screenshot 2026-01-21 001136" src="https://github.com/user-attachments/assets/a4953bbc-47f0-4f85-80ba-6c525f52fb30" />
-<img width="1356" height="935" alt="Screenshot 2026-01-21 001155" src="https://github.com/user-attachments/assets/685de4d0-8ffb-4fce-9981-8911392e223e" /><img width="1906" height="885" alt="Screenshot_2026-01-24_195206" src="https://github.com/user-attachments/assets/f53a1514-f69c-465e-8ebf-7456f544d462" />
-
-<img width="1791" height="855" alt="Screenshot 2026-01-21 010120" src="https://github.com/user-attachments/assets/b990c527-dc16-4a97-b7e7-d331d31a889a" />
+<img width="1434" height="887" alt="image" src="https://github.com/user-attachments/assets/112b8ff3-04fa-455c-9b20-bbb4de5ad0f3" />
+<img width="1372" height="728" alt="image" src="https://github.com/user-attachments/assets/2ce5cc38-556d-496e-bac5-8d7c3a8108c0" />
+<img width="1907" height="1024" alt="image" src="https://github.com/user-attachments/assets/f440b95b-b18d-454b-811c-031805fbd05e" />
+<img width="1308" height="654" alt="image" src="https://github.com/user-attachments/assets/2bb7bfb3-bfda-441b-8946-d4be4ac80b99" />
 
 | Component | Quantity | Specification | Unit Price | Total Price |
 |----------|----------|---------------|------------|-------------|
