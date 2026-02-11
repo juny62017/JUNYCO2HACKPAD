@@ -2990,7 +2990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 124.46 97.79 0)
 			(effects
 				(font
@@ -3266,7 +3266,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 124.46 115.57 0)
 			(effects
 				(font
@@ -3342,7 +3342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 124.46 80.01 0)
 			(effects
 				(font
@@ -3610,7 +3610,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 124.46 44.45 0)
 			(effects
 				(font
@@ -3686,7 +3686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 124.46 62.23 0)
 			(effects
 				(font
@@ -3895,7 +3895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "Hackclub Footprints:MX_SK6812MINI-E_REV"
 			(at 124.46 25.4 0)
 			(effects
 				(font
