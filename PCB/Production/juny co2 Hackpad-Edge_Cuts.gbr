@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.4*%
+%TF.CreationDate,2026-01-21T00:58:39+05:30*%
+%TF.ProjectId,Jayant co2 Hackpad,4a617961-6e74-4206-936f-32204861636b,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.4) date 2026-01-21 00:58:39*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X73025000Y-76200000D02*
+X140970000Y-76200000D01*
+X140970000Y-135890000D01*
+X73025000Y-135890000D01*
+X73025000Y-76200000D01*
+M02*
