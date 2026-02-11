@@ -18,7 +18,7 @@ this is my first time of making pcb and i have made this project for blueprint p
 | Component | Quantity | Specification | Unit Price | Total Price |
 |----------|----------|---------------|------------|-------------|
 |XIAO RP 2040| 1 |Microcontroller| $14.6| $14.6|
-|SK6812 MINI Leds| 6 |Leds| $14.6| $17.19| $17.19|
+|SK6812MINI-E REV| 6 |Leds| $14.6| $17.19| $17.19|
 |Red Switches Keyboards| 3 |Switches| $3.63|$3.63| 
 |EC11| 1 | Encoder| $0.6| $0.6| 
 |0.91" OLED Display| 1 |Display| $1.65| $1.65|
