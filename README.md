@@ -5,6 +5,9 @@ I built this macropad to make my daily work easier.
 I use a lot of shortcuts and wanted a small device where I can press one button instead of remembering key combinations.
 This project helped me understand how hardware and software work together.
 
+I made macropad to make my daily workflow smoother by giving me singlee press access to shortcuts and custom actions I use often, instead of complex keyboard combinations. It was also a personal learning project to improve my skills in PCB design, microcontroller integration, LED routing, and 3D case design.
+
+To use it, just flash the firmware to the XIAO RP2040 and connect it to your computer with a USB cable. The keys can be programmed for shortcuts or macros, and the rotary encoder can control things like volume.
 
 <img width="732" height="616" alt="image" src="https://github.com/user-attachments/assets/539a32aa-f2e4-4fc2-8573-cd8f30c25a3c" />
 
