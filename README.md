@@ -1,7 +1,11 @@
-this is a macropad for my editing and personal use 
-i gonna use this macropad on my personal gear and
-i have made this by my own and watched some tutorial and guide
-this is my first time of making pcb and i have made this project for blueprint program
+This Hackpad is a custom 5-key macropad built using the Seeed XIAO RP2040.
+It includes per-key SK6812 MINI reverse-mount RGB LEDs, a rotary encoder, and a 0.91" OLED display.
+
+I built this macropad to make my daily work easier. 
+I use a lot of shortcuts and wanted a small device where I can press one button instead of remembering key combinations.
+This project helped me understand how hardware and software work together.
+
+
 <img width="732" height="616" alt="image" src="https://github.com/user-attachments/assets/539a32aa-f2e4-4fc2-8573-cd8f30c25a3c" />
 
 <img width="731" height="755" alt="image" src="https://github.com/user-attachments/assets/b66937ee-d79a-49b9-8b54-023ad3da7eda" />
