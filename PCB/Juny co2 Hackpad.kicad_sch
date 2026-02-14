@@ -4301,7 +4301,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "220Ω"
 			(at 55.88 34.2899 0)
 			(effects
 				(font
